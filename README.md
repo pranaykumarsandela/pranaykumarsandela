@@ -162,8 +162,8 @@ An event-driven incident management platform combining backend engineering, Kafk
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranaykumarsandela&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaykumarsandela&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=pranaykumarsandela&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranaykumarsandela&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranaykumarsandela&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA" />
 
