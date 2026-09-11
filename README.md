@@ -1,188 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=PRANAY%20KUMAR%20SANDELA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Full-Stack%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn&color=0:0F172A,45:312E81,75:4C1D95,100:0F172A" width="100%" alt="Pranay Kumar Sandela"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=PRANAY%20KUMAR%20SANDELA&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20BACKEND%20%7C%20FULL-STACK%20%7C%20COMPUTER%20VISION&descAlignY=58&descSize=16&animation=fadeIn&color=0:0F172A,45:312E81,75:4C1D95,100:0F172A" width="100%" alt="Pranay Kumar Sandela"/>
+
+<br>
 
 <a href="https://github.com/pranaykumarsandela">
-<img src="https://komarev.com/ghpvc/?username=pranaykumarsandela&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/pranay-kumar-sandela/">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://leetcode.com/u/pranaykumarsandela/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827" alt="LeetCode">
+</a>
+<a href="mailto:pranaykumarsandela@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-👋 Hey, I'm Pranay
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Computer+Science+Undergraduate;AI%2FML+%7C+Computer+Vision+%7C+Backend;Java+%7C+Python+%7C+Spring+Boot+%7C+React;500%2B+LeetCode+problems+solved;Always+exploring+new+ways+to+solve+problems." alt="Typing animation">
+
+<br>
 
 Building intelligent systems at the intersection of AI, software & real-world problems.
 
-<br/>
-
-<a href="https://github.com/pranaykumarsandela">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/pranay-kumar-sandela/">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/pranaykumarsandela/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827"/>
-</a>
-<a href="https://www.geeksforgeeks.org/profile/pranaykumag4a4">
-<img src="https://img.shields.io/badge/GeeksforGeeks-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Computer+Science+Undergraduate;AI%2FML+%7C+Computer+Vision+%7C+Backend;Java+%7C+Python+%7C+Spring+Boot+%7C+React;500%2B+LeetCode+problems+solved;Always+exploring+new+ways+to+solve+problems." alt="Typing animation"/>
-
 </div>
 
-◈ About Me
+🧠 About Me
 
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  I'm a Computer Science undergraduate who enjoys turning            │
-│  real-world problems into practical software solutions.             │
-│                                                                     │
-│  My interests live at the intersection of:                          │
-│                                                                     │
-│      AI / ML     Computer Vision     Backend Engineering            │
-│          └──────────────┬──────────────────────┘                    │
-│                         │                                           │
-│                    Intelligent Systems                              │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+I'm a Computer Science undergraduate who enjoys turning real-world problems into practical software solutions.
 
-🎓 Pursuing B.E. in Computer Science at University College of Engineering, Osmania University
-
-🧠 Interested in AI/ML, Computer Vision, Generative AI and intelligent applications
+🔭 Exploring AI/ML, Computer Vision, Generative AI and intelligent applications
 
 ☕ Building backend systems with Java, Spring Boot and FastAPI
 
-⚛️ Comfortable building modern web applications with React
+⚛️ Building full-stack applications with React
 
 🧩 500+ LeetCode problems solved
 
 🏆 Rank 20 — TS ECET
 
-👥 IEEE Computer Society student-leader working with 200+ students
+👥 IEEE Computer Society student leader
 
-🔎 I like exploring new ways to solve a problem rather than settling for the first approach
+🔎 I like exploring new ways to solve a problem instead of stopping at the first approach
 
-⚡ My Current Orbit
+🧬 Tech Stack
 
-<div align="center">
+Languages
 
-🧠 Explore
-
-🛠️ Build
-
-🧩 Improve
+Java Python JavaScript TypeScript C C++
 
 AI / ML
 
-Backend Systems
+OpenCV PyTorch FaceNet NumPy LLM Integration
 
-DSA
+Backend
 
-Computer Vision
+Spring Boot FastAPI Node.js Express.js REST APIs
 
-Full-Stack Apps
+Frontend
 
-Problem Solving
+React.js HTML CSS JavaScript
 
-Generative AI
+Databases & Tools
 
-Intelligent Products
+PostgreSQL MySQL MongoDB Docker Kafka Git GitHub
 
-System Design
-
-</div>
-
-🚀 Featured Work
+🚀 Projects
 
 🎥 Attendify
 
 Automated Attendance System via CCTV
 
-Computer Vision × Real-Time Processing × Backend Engineering
+A computer-vision based attendance platform that automates attendance marking through CCTV streams and face recognition.
 
-Attendify is a computer-vision based attendance platform designed to automate attendance marking using CCTV streams and face recognition.
+Highlights
 
-<div align="center">
+🎯 95%+ recognition accuracy
 
-<img src="https://img.shields.io/badge/95%25%2B-Recognition%20Accuracy-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/500%2B-Student%20Records-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/30-Concurrent%20CCTV%20Streams-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%3C200ms-Per%20Frame-1E1B4B?style=for-the-badge"/>
+👥 Trained/evaluated across 500+ student records
 
-<br/><br/>
+📹 Designed for 30 concurrent CCTV streams
 
-<a href="https://attendify-rosy-ten.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-7C3AED?style=for-the-badge"/>
-</a>
-<a href="https://github.com/pranaykumarsandela/attendify-">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-18181B?style=for-the-badge&logo=github"/>
-</a>
+⚡ Sub-200ms/frame target processing
 
-</div>
+👁️ OpenCV + FaceNet recognition pipeline
 
-Architecture
+⚙️ Async FastAPI backend
 
-                  ┌─────────────────────┐
-                  │      CCTV Feeds     │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │ OpenCV Processing   │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │ FaceNet Recognition │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │   FastAPI Backend   │
-                  └──────────┬──────────┘
-                             │
-                    ┌────────┴────────┐
-                    ▼                 ▼
-             ┌────────────┐    ┌──────────────┐
-             │ PostgreSQL │    │ React Admin  │
-             │ Attendance │    │  Dashboard   │
-             └────────────┘    └──────────────┘
+🗄️ PostgreSQL attendance logging and audit trails
+
+🐳 Dockerized deployment
 
 Stack: Python OpenCV FaceNet FastAPI PostgreSQL Docker
+
+<div align="left">
+<a href="https://attendify-rosy-ten.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-7C3AED?style=for-the-badge" alt="Attendify Live Demo">
+</a>
+<a href="https://github.com/pranaykumarsandela/attendify-">
+  <img src="https://img.shields.io/badge/💻%20GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Attendify GitHub">
+</a>
+</div>
 
 📚 Smart Study
 
 AI-Driven Study Planner
 
-A full-stack study platform designed around priority-weighted scheduling, progress tracking and reminders.
+A full-stack study planner focused on priority-based scheduling, progress tracking and consistent study habits.
+
+Highlights
 
 🧠 AI-driven study planning
 
-📊 Progress tracking
-
 ⏱️ Priority-weighted scheduling
 
-🔔 Reminders for consistent study habits
+📊 Progress tracking and reminders
 
 📈 30% improvement in task completion during user testing
 
-🌐 Responsive React interface
+📱 Responsive React interface
 
 🚀 Automated CI/CD deployment
 
-<div align="center">
+Stack: MongoDB Express.js React.js Node.js Vercel
 
+<div align="left">
 <a href="https://smart-study-inky-one.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-7C3AED?style=for-the-badge" alt="Smart Study Live Demo">
 </a>
 <a href="https://github.com/pranaykumarsandela/SmartStudy">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-18181B?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/💻%20GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Smart Study GitHub">
 </a>
-
 </div>
-
-Stack: MongoDB Express.js React.js Node.js Vercel
 
 🤖 IntelliOps
 
@@ -192,99 +143,65 @@ Currently under development
 
 An event-driven incident management platform combining backend engineering, Kafka and LLM-assisted analysis.
 
-📨 Kafka-driven event processing
+📨 Kafka-driven incident processing
 
 🧠 LLM-assisted root-cause analysis and postmortems
 
 🔐 JWT-based role access
 
-⚛️ React dashboard with real-time updates
+⚛️ React dashboard
 
 ☕ Spring Boot backend
 
 🐘 PostgreSQL
 
-🐳 Dockerized full-stack architecture
+🐳 Dockerized architecture
 
 Stack: Spring Boot Kafka PostgreSQL React Spring AI JWT Docker
 
-🧬 Tech Stack
+🌱 Currently Exploring
 
-<div align="center">
+AI & Intelligence
 
-Languages
+Engineering
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,php&perline=7" alt="Languages"/>
+Problem Solving
 
-AI / Machine Learning
+🧠 AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&perline=6" alt="AI and Machine Learning"/>
+☕ Java + Spring Boot
 
-Backend & Web
+🧩 DSA
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,react&perline=6" alt="Backend and Web"/>
+👁️ Computer Vision
 
-Data & Infrastructure
+🏗️ Backend Systems
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,kafka,git,github&perline=7" alt="Databases and infrastructure"/>
+🔍 Algorithms
 
-</div>
+🤖 Generative AI / LLMs
 
-📊 GitHub Telemetry
+🏛️ System Design
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pranaykumarsandela&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&custom_title=Pranay's%20GitHub%20Stats" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaykumarsandela&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&custom_title=Most%20Used%20Languages" width="49%" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=pranaykumarsandela&theme=tokyonight&hide_border=true&mode=weekly" width="70%" alt="GitHub contribution streak"/>
-
-</div>
+⚡ Optimization
 
 🧩 Problem Solving
 
 <div align="center">
 
+500+ LeetCode Problems Solved
+
 <a href="https://leetcode.com/u/pranaykumarsandela/">
-<img src="https://img.shields.io/badge/500%2B-LeetCode%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827"/>
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827" alt="500+ LeetCode problems">
 </a>
 
-<br/><br/>
+<br><br>
 
 Think → Explore → Compare → Optimize
 
-I enjoy exploring different approaches to a problem —
-understanding why one works better, not just whether it works.
+<br>
 
-<br/>
-
-<a href="https://leetcode.com/u/pranaykumarsandela/">
-<img src="https://leetcard.jacoblin.cool/pranaykumarsandela?theme=dark&font=Karma&ext=heatmap" width="70%" alt="LeetCode statistics"/>
-</a>
-
-</div>
-
-🌱 Currently Exploring
-
-<div align="center">
-
-       ┌──────────────────────────────────────────────┐
-       │                                              │
-       │   🧠 AI / ML                                 │
-       │       ↓                                      │
-       │   👁️ Computer Vision                         │
-       │       ↓                                      │
-       │   🤖 Generative AI / LLMs                    │
-       │       ↓                                      │
-       │   ☕ Java + Spring Boot                      │
-       │       ↓                                      │
-       │   🏗️ Backend + System Design                │
-       │       ↓                                      │
-       │   🧩 DSA + Problem Solving                   │
-       │                                              │
-       └──────────────────────────────────────────────┘
+I enjoy exploring different approaches to a problem and understanding why one solution is better than another.
 
 </div>
 
@@ -292,37 +209,29 @@ understanding why one works better, not just whether it works.
 
 <div align="center">
 
+Achievement
 
 
-Highlight
 
-🧩
+🧩 LeetCode
 
-500+ LeetCode problems solved
+500+ problems
 
-🥇
+🥇 TS ECET
 
-Rank 20 — TS ECET
+Rank 20
 
-🎓
+🎓 Diploma
 
-9.49 / 10 Diploma CGPA
+9.49 / 10 CGPA
 
-👥
+👥 IEEE Workshops
 
-ML + Git/GitHub workshops for 200+ students
-
-⭐
-
-Average 4.6 / 5 workshop feedback
-
-📈
-
-Helped grow IEEE chapter participation by 40% YoY
+200+ students
 
 </div>
 
-👥 Beyond Code
+👥 Leadership
 
 IEEE Computer Society — Student Chapter
 
@@ -330,67 +239,41 @@ Joint Secretary, IEEE Core Team · Treasurer, IEEE Computer Society
 
 I enjoy sharing what I learn as much as I enjoy learning it.
 
-🎤 Led ML workshops and Git/GitHub sessions for 200+ students
+🎤 Led ML and Git/GitHub sessions for 200+ students
 
-⭐ Maintained an average 4.6/5 feedback
+⭐ Average workshop feedback of 4.6/5
 
 📈 Helped grow chapter event participation by 40% YoY
 
-🧭 Organized technical events end-to-end
-
 🎓 Education
 
-<details>
-<summary><b>University College of Engineering, Osmania University</b></summary>
+University College of Engineering, Osmania University
+B.E. Computer Science · 2024 – 2027
 
-Bachelor of Engineering — Computer Science
-2024 – 2027
+Government Polytechnic College
+Diploma in Computer Science · 2021 – 2024
 
-</details>
-
-<details>
-<summary><b>Government Polytechnic College</b></summary>
-
-Diploma — Computer Science
-2021 – 2024
-
-CGPA: 9.49 / 10
-
-</details>
-
-📜 Certifications
-
-Basics of Java — Coding Ninjas
-
-Software Engineering Job Simulation — EA
-
-JavaScript Algorithms and Data Structures — freeCodeCamp
-
-Software Development Fundamentals — Great Learning
-
-📫 Connect With Me
+📫 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pranay-kumar-sandela/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 <a href="mailto:pranaykumarsandela@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pranaykumarsandela%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+
+<br><br>
+
 <a href="https://github.com/pranaykumarsandela">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/pranay-kumar-sandela/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://leetcode.com/u/pranaykumarsandela/">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827"/>
+  <img src="https://img.shields.io/badge/LeetCode-500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827" alt="LeetCode">
 </a>
-
-<br/><br/>
-
-<!-- Replace the URL below with your public resume URL -->
-
-<a href="YOUR_RESUME_LINK_HERE">
-<img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-7C3AED?style=for-the-badge"/>
+<a href="https://www.geeksforgeeks.org/profile/pranaykumag4a4">
+  <img src="https://img.shields.io/badge/GFG-Profile-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
 </a>
 
 </div>
@@ -399,6 +282,6 @@ Software Development Fundamentals — Great Learning
 
 Explore. Build. Improve. Repeat.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,45:312E81,75:4C1D95,100:0F172A&animation=fadeIn" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,45:312E81,75:4C1D95,100:0F172A&animation=fadeIn" width="100%" alt="Footer">
 
 </div>
